@@ -12,6 +12,6 @@ Output: return value and description
 """
 
 def main():
-    # code here
+    print("hello")
 
 main()    
